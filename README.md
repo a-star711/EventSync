@@ -46,8 +46,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- project need to be hosted -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Description:
 EventSync is a cutting-edge event management application designed to simplify the process of scheduling and organizing events for individuals and teams. With a focus on flexibility and user-friendliness, EventSync empowers users to create and manage events and event series effortlessly. 
