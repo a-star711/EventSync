@@ -122,11 +122,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## Contact
 
-* Angel Angelov - [gitLab](https://gitlab.com/angel.angelov711) - a.krasimirov35@gmail.com
-* Daniil Nazarov - [gitLab](https://gitlab.com/daniil.nazarov) - dnazarov870@gmail.com
-* Kristiyan Todorov - [gitLab](https://gitlab.com/kristiyanT) - yonkov.kristiyan@gmail.com
+* Angel Angelov - [gitLab](https://github.com/angel.angelov711) - a.krasimirov35@gmail.com
 
-Project Link: [EventSync](https://gitlab.com/angel.angelov711/EventSync)
+Project Link: [EventSync](https://github.com/angel.angelov711/EventSync)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
