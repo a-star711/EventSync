@@ -40,13 +40,14 @@
   </ol>
 </details>
 
+![Event1]()
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/546fbea7-1e8c-4094-918c-8c7e6c60e58f" alt="Demo of my project" width="800"/>
+ <img src="https://github.com/user-attachments/assets/fdfb9367-d2a6-4cf0-b47e-14dd2092109a" alt="Demo of my project" width="800"/>
 </div>
 
 ### Description:
@@ -64,6 +65,10 @@ You can access the live version of the project by following this link:
 
 
 Click the badge above or [here](https://event-sync.vercel.app/) to explore the application online.
+
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/546fbea7-1e8c-4094-918c-8c7e6c60e58f" alt="Demo of my project" width="800"/>
+</div>
 
 
 ### Built With
