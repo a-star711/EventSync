@@ -46,7 +46,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/945c4960-86e5-48c2-a499-85222761b9d2">
+ <img src="https://github.com/user-attachments/assets/546fbea7-1e8c-4094-918c-8c7e6c60e58f" alt="Demo of my project" width="800"/>
 </div>
 
 ### Description:
