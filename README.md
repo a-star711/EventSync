@@ -51,8 +51,7 @@ These are the the main technologies used for the creation of the EventSync app:
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![Tailwind][Tailwind]][Tailwindcss-url]
-* [![Firebase][Firebase]][Firebase-url]
-
+* Firebase
 
 <!-- GETTING STARTED -->
 ## Getting Started
