@@ -13,8 +13,6 @@
 
   <p align="center">
     Schedule your events in a feature-rich calendar app
-    <br />
-    <a href="https://gitlab.com/angel.angelov711/EventSync"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -46,6 +44,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![image](https://github.com/user-attachments/assets/6d1912a0-8ed3-48f4-a064-72ff9e282af0)
+
 
 ### Description:
 EventSync is a cutting-edge event management application designed to simplify the process of scheduling and organizing events for individuals and teams. With a focus on flexibility and user-friendliness, EventSync empowers users to create and manage events and event series effortlessly. 
