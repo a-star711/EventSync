@@ -16,9 +16,6 @@
   </p>
 </div>
 
-![Event1](https://github.com/user-attachments/assets/945c4960-86e5-48c2-a499-85222761b9d2)
-
-![Event2](https://github.com/user-attachments/assets/546fbea7-1e8c-4094-918c-8c7e6c60e58f)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -47,8 +44,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![image](https://github.com/user-attachments/assets/6d1912a0-8ed3-48f4-a064-72ff9e282af0)
 
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/945c4960-86e5-48c2-a499-85222761b9d2">
+</div>
 
 ### Description:
 EventSync is a cutting-edge event management application designed to simplify the process of scheduling and organizing events for individuals and teams. With a focus on flexibility and user-friendliness, EventSync empowers users to create and manage events and event series effortlessly. 
@@ -62,6 +61,7 @@ EventSync utilizes Firebase as a back-end service offering a reliable data manag
 You can access the live version of the project by following this link:
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-EventSync%20App-blue)](https://event-sync.vercel.app/)
+
 
 Click the badge above or [here](https://event-sync.vercel.app/) to explore the application online.
 
