@@ -17,35 +17,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-
-<div align="center">
-  <summary>Table of Contents</summary>
-</div>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<div align="center">
-## About The Project
-</div>
-
 <div align="center">
  <img src="https://github.com/user-attachments/assets/fdfb9367-d2a6-4cf0-b47e-14dd2092109a" alt="Demo of my project" width="800"/>
 </div>
