@@ -40,8 +40,6 @@
   </ol>
 </details>
 
-![Event1]()
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
