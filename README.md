@@ -19,7 +19,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
 <div align="center">
   <summary>Table of Contents</summary>
 </div>
@@ -42,8 +42,6 @@
   </ol>
 </details>
 
-
-<!-- ABOUT THE PROJECT -->
 <div align="center">
 ## About The Project
 </div>
@@ -52,7 +50,7 @@
  <img src="https://github.com/user-attachments/assets/fdfb9367-d2a6-4cf0-b47e-14dd2092109a" alt="Demo of my project" width="800"/>
 </div>
 
-### Description:
+
 EventSync is a cutting-edge event management application designed to simplify the process of scheduling and organizing events for individuals and teams. With a focus on flexibility and user-friendliness, EventSync empowers users to create and manage events and event series effortlessly. 
 
 EventSync utilizes Firebase as a back-end service offering a reliable data management. There are three main entities:
