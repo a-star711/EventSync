@@ -20,7 +20,9 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+<div align="center">
   <summary>Table of Contents</summary>
+</div>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -42,7 +44,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<div align="center">
 ## About The Project
+</div>
 
 <div align="center">
  <img src="https://github.com/user-attachments/assets/fdfb9367-d2a6-4cf0-b47e-14dd2092109a" alt="Demo of my project" width="800"/>
