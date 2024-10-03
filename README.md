@@ -51,8 +51,8 @@ These are the the main technologies used for the creation of the EventSync app:
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![Tailwind][Tailwind]][Tailwindcss-url]
-* <a href="https://firebase.google.com/?gad=1&gclid=Cj0KCQjw2qKmBhCfARIsAFy8buJpmcsVlLSlOLxynVWpM_INCIau6stZ_d7c05Z1xpz3lpb95c3QNC0aAhvuEALw_wcB&gclsrc=aw.ds">
-    <img src="src/assets/Firebase-badge.png" alt="Logo" width="90" height="30">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 
 
